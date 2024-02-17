@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RayH
-- 👀 I’m interested in code
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rai Harpreet.
+- 👀 I’m interested in everything.
+- 🌱 I’m currently learning God knows what.
+- 💞️ I’m looking to collaborate on something.
+- 📫 Don't try to reach me, am in hibernation.
 
 <!---
 Bleedlikeyoushould/Bleedlikeyoushould is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
